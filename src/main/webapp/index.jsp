@@ -12,7 +12,7 @@
     <link rel="stylesheet" href="style.css">
   </head>
   <body>
-  <div id="content-pane">
+  <div id="content">
     <h2>Product Discount</h2>
     <form>
       <label>Product Description</label><br>
