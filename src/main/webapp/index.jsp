@@ -14,7 +14,7 @@
   <body>
   <div id="content">
     <h2>Product Discount</h2>
-    <form>
+    <form method="post" action="/calculate">
       <label>Product Description</label><br>
       <input type="text" name="description" placeholder="Describe your wish product"> <br>
       <label>Retail Price</label><br>
